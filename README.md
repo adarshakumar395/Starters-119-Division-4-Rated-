@@ -5,4 +5,4 @@ problem statement for ADVITIYA1- https://www.codechef.com/START119D/problems/ADV
 visit this link for solution  for ADVITIYA1 - https://www.codechef.com/viewsolution/1042522994
 
 problem statement for ADVITIYA2 - https://www.codechef.com/problems/ADVITIYA2
-visit this link for solution  for ADVITIYA1 - https://www.codechef.com/viewsolution/1042610324
+visit this link for solution  for ADVITIYA2 - https://www.codechef.com/viewsolution/1042610324
